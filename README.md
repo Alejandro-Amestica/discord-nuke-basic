@@ -1,2 +1,2 @@
 # discord-nuke-basic
-Basic discord raid servers
+This is a basic raid discord nuke
