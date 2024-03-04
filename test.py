@@ -3,7 +3,7 @@ from discord.ext import commands
 import asyncio
 
 # Configura el token de tu bot
-TOKEN = 'MTIxNDMzMjQwMTUxNDQ1NTEyMQ.GQ4LIa.4nKyLqV5BYe-xgQ7nCd7pELJnf4RlsHsrcuf6M'
+TOKEN = 'your token here'
 
 # Nombre para los nuevos canales
 nuevo_nombre = "Hacked By Free The V-bucks"
